@@ -12,4 +12,4 @@ my journey of learning Python from scratch
 - prepare for machine learning and AI projects
 
 ??? hopefully, my actions will be worth it for my future self
-- good luck, everyone! 
+# good luck, everyone! 
